@@ -1,0 +1,20 @@
+.wrapper {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  background: #7776766a;
+}
+
+.info {
+  display: grid;
+  background: whitesmoke;
+  border-radius: 5px;
+  padding: 1rem;
+  gap: 5px;
+max-width: 500px;
+}
