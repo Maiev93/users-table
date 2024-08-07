@@ -1,0 +1,23 @@
+.table {
+  width: 100%;
+  max-width: 1200px;
+  margin: 1rem auto;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination__item {
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+.item_active {
+  background: rgb(179, 220, 243);
+  border-radius: 50%;
+}

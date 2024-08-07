@@ -1,0 +1,8 @@
+.table__sort {
+  color: grey;
+  cursor: pointer;
+}
+
+.active {
+  color:rgb(12, 118, 205);
+}
